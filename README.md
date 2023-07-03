@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
 
+- 🔭 I'm currently working on computational sensorimotor learning.
+- 🌱 I’m currently studying issues on perception, robotics, and learning.
+- 😄 Pronouns: he/him
 <!--
 **spacesofspace/spacesofspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
