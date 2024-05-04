@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🔭 I'm currently working on computational sensorimotor learning.
+- 🔭 I'm currently working on robotic manipulation.
 - 🌱 I’m currently studying issues on perception, robotics, and learning.
 - 😄 Pronouns: he/him
 <!--
